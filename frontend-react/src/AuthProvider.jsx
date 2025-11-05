@@ -1,8 +1,6 @@
-// eslint-disable-next-line no-unused-vars
-import {useState,useContext} from 'react'
+import {useState,createContext} from 'react'
 
 // Create the Context:
-// eslint-disable-next-line no-undef
 const AuthContext = createContext();
 
 const AuthProvider = ({children}) => {

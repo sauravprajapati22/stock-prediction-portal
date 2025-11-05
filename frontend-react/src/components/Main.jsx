@@ -11,7 +11,7 @@ const Main = () => {
             <p className='text-light lead'>
                 Stock prediction applications use algorithms, including machine learning and AI, to forecast stock prices and provide trading insights. These apps analyze historical data, market trends, and technical indicators, though they are designed as informational tools and do not guarantee future performance or serve as financial advice.  
             </p>
-            <Button text="Login" class="btn-outline-info" />
+            <Button text="Explore Now" class="btn-outline-info" url="/dashboard" />
         </div>
       </div>
       
